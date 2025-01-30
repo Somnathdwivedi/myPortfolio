@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import React from 'react'
 import { assets } from '../../assets/assets'
-import { motion } from "motion/react"
+import { motion } from 'framer-motion';
 
 export default function Header() {
   return (
