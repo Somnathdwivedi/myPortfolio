@@ -43,7 +43,6 @@ import right_arrow from './right-arrow.png';
 import send_icon from './send-icon.png';
 import right_arrow_bold from './right-arrow-bold.png';
 import right_arrow_bold_dark from './right-arrow-bold-dark.png';
-import { data } from 'motion/react-client';
 
 export const assets = {
     user_image,
